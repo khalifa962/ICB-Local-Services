@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a74f796.css",
+    "main.js": "/static/js/main.55d22cff.js",
+    "static/media/icb.jpg": "/static/media/icb.38c9f85239e9d9dcb95d.jpg",
+    "static/media/maintenance.jpg": "/static/media/maintenance.f3d947524461792d4324.jpg",
+    "static/media/klipartz.png": "/static/media/klipartz.1d8ab0ab9b1cc52b7219.png",
+    "static/media/logo.png": "/static/media/logo.7510cc2f3c03b7239dad.png",
+    "index.html": "/index.html",
+    "main.2a74f796.css.map": "/static/css/main.2a74f796.css.map",
+    "main.55d22cff.js.map": "/static/js/main.55d22cff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a74f796.css",
+    "static/js/main.55d22cff.js"
+  ]
+}
